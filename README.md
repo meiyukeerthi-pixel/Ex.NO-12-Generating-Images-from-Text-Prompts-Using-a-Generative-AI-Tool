@@ -25,8 +25,6 @@ Keep the main subject the same but try different style keywords one at a time, s
 Once satisfied with a generated image, click the download/save option on that image to store it locally for use in the report or presentation.
 ## Step 8: Noting Ethical Considerations
 Record a short note on responsible use — avoid generating images of real identifiable people without consent, respect copyright when using outputs commercially, and always disclose when an image was AI-generated.
-## SAMPLE OUTPUT SCREEN
-The screen below shows a sample text-to-image generator, with the prompt entered and four generated results ready to compare and save (shown here as placeholder thumbnails).
 ## OUTPUT
 <img width="1338" height="1087" alt="image" src="https://github.com/user-attachments/assets/f9d75bcb-cea8-4391-87a8-48f60803700d" />
 
