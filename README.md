@@ -1,3 +1,7 @@
+# EXP.NO : 12
+# NAME : MEIYAPPAN S
+# REG.NO :212225080029
+# DATE :24/11/2026
 # Ex.NO-12-Generating-Images-from-Text-Prompts-Using-a-Generative-AI-Tool
 ## AIM
 To understand how text-to-image generative AI works, and to generate and refine sample images from text prompts using a free AI image-generation tool.
@@ -28,7 +32,6 @@ Record a short note on responsible use — avoid generating images of real ident
 ## OUTPUT
 <img width="1338" height="1087" alt="image" src="https://github.com/user-attachments/assets/f9d75bcb-cea8-4391-87a8-48f60803700d" />
 
-## RESULT
-Thus, text-to-image generative AI was successfully explored by writing, testing, and refining prompts, and a final AI-generated image was produced and saved.
+
 ## CONCLUSION
 In conclusion, text-to-image generative AI shows how descriptive language can be directly converted into visual content, and that prompt wording — subject, style, and detail — has a major effect on the result. This makes prompt refinement, not technical skill, the key ability needed to use such tools effectively and responsibly.
